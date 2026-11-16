@@ -1,0 +1,17 @@
+# Temporary files
+*.log
+*.tmp
+
+# Environment variables and secrets
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
+
+# MySQL Workbench files
+*.mwb

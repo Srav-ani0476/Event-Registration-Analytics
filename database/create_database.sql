@@ -1,0 +1,2 @@
+create database event_registration_analytics;
+use event_registration_analytics;
